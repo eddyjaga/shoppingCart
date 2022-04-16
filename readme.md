@@ -1,2 +1,2 @@
 #Shopping cart
-This is a vanilla javascript project for beginners.
+This project is a plain vanilla javascript project for beginners.
